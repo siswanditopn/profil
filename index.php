@@ -1,3 +1,18 @@
+<?php
+  require_once('konfigurasi/PangkalanData.php');
+  require_once('konfigurasi/Fungsi_Utama.php');
+  require_once('konfigurasi/Fungsi_DataPengunjung.php');
+
+  $TokenUmum   = MD5("Pengunjung Umum - siswanditopn.my.id");
+  if (!isset($_COOKIE[$TokenUmum])) {
+      $Durasi = time()+60*60*24;
+  
+      $value = "siswanditopn.my.id";
+      setcookie($TokenUmum, $value, $Durasi);
+  
+      BukuTamu($koneksi);
+  }
+?>
 <!doctype html>
 <html lang="id" dir="ltr">
   <head>
