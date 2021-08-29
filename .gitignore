@@ -75,8 +75,7 @@ $RECYCLE.BIN/
 
 ### Proyek ###
 error_log.file
-spn_konfigurasi/pangkalan_data.php
-PengkalanData.php
+konfigurasi/PangkalanData.php
 *_tes.php
 cek.php
 *.zip
