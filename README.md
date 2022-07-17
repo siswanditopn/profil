@@ -1,7 +1,8 @@
 <h1 align="center">Salam 👋, namaku Siswandito Nugroho (Tito)</h1>
-Saya sedang bekerja di PT Lumbung Karya Utama [https://www.lumbungkarya.com](https://www.lumbungkarya.com) sambil melanjutkan studi di Universitas Terbuka [https://www.ut.ac.id/](https://www.ut.ac.id/)
+Saya sedang bekerja di PT Lumbung Karya Utama https://www.lumbungkarya.com sambil melanjutkan studi di Universitas Terbuka https://www.ut.ac.id
 
-🌱 Saat ini saya sedang belajar **Bootstrap v5.1**, dan **Laravel 9**
+
+🌱 Saat ini saya sedang belajar **Bootstrap v5.2**, dan **Laravel 9**
 
 Ingin berbagi berkat? Silakan sampaikan melalui [https://trakteer.id/SiswanditoPN](https://trakteer.id/SiswanditoPN)
 
