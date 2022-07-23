@@ -22,3 +22,4 @@ cek.php
 *.zip
 error_log
 gtag*
+.env-*
