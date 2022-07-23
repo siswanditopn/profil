@@ -21,3 +21,4 @@ error_log.file
 cek.php
 *.zip
 error_log
+gtag*
